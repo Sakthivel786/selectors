@@ -1,0 +1,17 @@
+/* ul li:first-child{
+    background-color: yellow;
+} */
+/* ul li:last-child{
+    background-color: green;} */
+
+    /* ul li:nth-child(even){
+        background-color: rgb(100, 141, 100);} */
+
+        /* ul li:nth-child(odd){
+            background-color: rgb(100, 141, 100);} */
+
+            /* ul li:nth-child(5){
+                background-color: rgb(100, 141, 100);} */
+
+                ul li:only-child{
+                    background-color: rgb(100, 141, 100);}
